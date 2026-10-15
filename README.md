@@ -1,4 +1,4 @@
-# RutaMadrid 🚚🇪🇸
+# RutaMadrid
 
 [![React](https://img.shields.io/badge/React-19-blue?logo=react)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)
@@ -13,7 +13,7 @@ La interfaz está desarrollada con un diseño limpio, mobile-first y adaptativo 
 
 ---
 
-## 🚀 Puesta en Marcha Rápida
+## Puesta en Marcha Rápida
 
 ### Requisitos previos
 - **Node.js** (versión 18 o superior recomendada)
@@ -37,7 +37,7 @@ npm run build
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 - **React 19** + **TypeScript** + **Vite 8**
 - **React Router 7**: Enrutamiento declarativo para la navegación fluida entre pantallas.
@@ -49,10 +49,10 @@ npm run build
 
 ---
 
-## 📱 Estructura de Navegación y Pantallas
+## Estructura de Navegación y Pantallas
 
 ### 1. Cabecera fija y Menú Lateral (Drawer)
-- Cabecera fija con botón de hamburguesa (`☰`) arriba a la izquierda, logotipo, selector de estado y control de simulación en vivo (Pausar/Reanudar).
+- Cabecera fija con botón de menú arriba a la izquierda, logotipo, selector de estado y control de simulación en vivo (Pausar/Reanudar).
 - Menú lateral deslizante con animación suave y fondo oscurecido accesible con 5 destinos:
   1. **Inicio** (`/`)
   2. **Mapa Madrid** (`/mapa`)
@@ -145,7 +145,7 @@ Dimensionamiento inteligente de nuevas rutas:
 
 ---
 
-## 📂 Arquitectura del Proyecto
+## Arquitectura del Proyecto
 
 ```
 gestor-entregas/
