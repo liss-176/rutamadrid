@@ -1,5 +1,12 @@
 # RutaMadrid 🚚🇪🇸
 
+[![React](https://img.shields.io/badge/React-19-blue?logo=react)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)
+[![Vite](https://img.shields.io/badge/Vite-8-646CFF?logo=vite)](https://vitejs.dev/)
+[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+[![Leaflet](https://img.shields.io/badge/Leaflet-1.9-199900?logo=leaflet)](https://leafletjs.com/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 **RutaMadrid** es una aplicación web integral diseñada para la planificación, monitorización en tiempo real y optimización de flotas de reparto y logística urbana en Madrid capital.
 
 La interfaz está desarrollada con un diseño limpio, mobile-first y adaptativo (modo claro y oscuro según el sistema), con mapas interactivos basados en OpenStreetMap / Leaflet, cálculo de emisiones CO₂, costes operativos y gestión de distintivos ambientales de la DGT (Zona de Bajas Emisiones).
