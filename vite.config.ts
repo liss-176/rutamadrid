@@ -8,4 +8,7 @@ export default defineConfig({
     tailwindcss(),
     react(),
   ],
+  server: {
+    host: true, // Escucha en 0.0.0.0 para acceso desde móvil en la misma red
+  },
 })
